@@ -1,4 +1,4 @@
-{-# LANGUAGE KindSignatures, ScopedTypeVariables, MultiParamTypeClasses #-}
+{-# LANGUAGE KindSignatures, ScopedTypeVariables, MultiParamTypeClasses, MonoLocalBinds #-}
 -- | Some motivating examples for the "IfCxt" module.
 module IfCxt.Examples
     ( cxtShow
